@@ -1,0 +1,54 @@
+#body{
+    background-color: rgb(85, 88, 96);
+    margin: 5;
+}
+
+.logo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top :165px;
+    left: 710px;
+}
+
+#gitlogo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top :165px;
+    left: 780px;
+}
+
+#div{
+    background-color: rgb(62, 66, 76);
+    text-align: center;
+    position:absolute;
+    border: 0;
+    margin: 0;
+    top:0px;
+    right:0px;
+    height: 150px;
+    left:0px;
+}
+
+#div2{
+    position: absolute;
+    border: 0;
+    top: 200px;
+}
+
+.text{
+    color: antiquewhite;
+}
+
+a:hover{
+    color: coral;
+}
+
+a:visited{
+    color: blue;
+}
+
+.linkText{
+    color: blue;
+}
